@@ -1,0 +1,294 @@
+2021-10-19T18:06:03 EEST
+
+;; Query time: 0 msec
+[1634655964.630965] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.00 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 256 msec
+[1634655965.928351] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=228 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 244 msec
+[1634655966.425112] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=235 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-19T19:06:06 EEST
+
+;; Query time: 0 msec
+[1634659566.291755] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.98 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 232 msec
+[1634659567.530450] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=231 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 248 msec
+[1634659568.074311] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=237 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-19T20:06:03 EEST
+
+;; Query time: 4 msec
+[1634663164.023594] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.97 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 244 msec
+[1634663165.238722] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=229 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 248 msec
+[1634663165.795369] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=237 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-19T21:06:03 EEST
+
+;; Query time: 4 msec
+[1634666763.454668] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.02 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634666764.664512] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=227 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 248 msec
+[1634666765.171327] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-19T22:06:03 EEST
+
+;; Query time: 4 msec
+[1634670364.067631] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.04 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 240 msec
+[1634670365.267585] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=229 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 232 msec
+[1634670365.748943] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-19T23:06:03 EEST
+
+;; Query time: 4 msec
+[1634673963.499437] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.02 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 260 msec
+[1634673964.744887] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=229 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 248 msec
+[1634673965.246380] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=237 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T00:06:03 EEST
+
+;; Query time: 4 msec
+[1634677564.671027] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.18 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 248 msec
+[1634677565.912328] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=228 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 260 msec
+[1634677566.420948] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T01:06:03 EEST
+
+;; Query time: 4 msec
+[1634681163.637138] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.99 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 244 msec
+[1634681164.866080] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=227 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 252 msec
+[1634681165.596353] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T02:06:03 EEST
+
+;; Query time: 4 msec
+[1634684763.972661] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.98 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 252 msec
+[1634684764.955999] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=227 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 244 msec
+[1634684765.450319] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=238 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T03:06:03 EEST
+
+;; Query time: 4 msec
+[1634688363.794614] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.00 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 244 msec
+[1634688364.995961] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=229 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 232 msec
+[1634688365.477921] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T04:06:04 EEST
+
+;; Query time: 4 msec
+[1634691964.814983] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.06 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 252 msec
+[1634691966.023419] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=228 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634691966.544751] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=237 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T05:06:03 EEST
+
+;; Query time: 4 msec
+[1634695564.069669] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.19 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634695565.296277] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=227 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 244 msec
+[1634695565.791364] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=239 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T06:06:03 EEST
+
+;; Query time: 4 msec
+[1634699163.530021] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.05 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 232 msec
+[1634699164.737712] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=229 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634699165.489655] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T07:06:03 EEST
+
+;; Query time: 4 msec
+[1634702763.605128] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.99 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 276 msec
+[1634702764.597036] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=228 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 240 msec
+[1634702765.133120] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=239 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T08:06:03 EEST
+
+;; Query time: 0 msec
+[1634706363.871827] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.97 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 260 msec
+[1634706365.095420] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=228 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 256 msec
+[1634706365.647831] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=235 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T09:06:03 EEST
+
+;; Query time: 4 msec
+[1634709963.937630] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.94 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 236 msec
+[1634709965.151254] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=229 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634709965.885412] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=239 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T10:06:03 EEST
+
+;; Query time: 4 msec
+[1634713563.917860] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=2.98 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 276 msec
+[1634713565.204401] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=230 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 268 msec
+[1634713565.775737] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=239 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T11:06:03 EEST
+
+;; Query time: 4 msec
+[1634717163.573545] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.37 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 232 msec
+[1634717164.867102] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=228 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 260 msec
+[1634717165.422153] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T12:06:03 EEST
+
+;; Query time: 4 msec
+[1634720763.995776] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.06 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634720765.259601] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=233 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 232 msec
+[1634720765.792383] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=235 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T13:06:03 EEST
+
+;; Query time: 4 msec
+[1634724363.741240] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.38 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 256 msec
+[1634724365.235922] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=227 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 236 msec
+[1634724365.764327] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=236 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+2021-10-20T14:06:04 EEST
+
+;; Query time: 0 msec
+[1634727964.115568] 64 bytes from pch.nic.mg (204.61.216.121): icmp_seq=1 ttl=57 time=3.02 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634727964.869349] 64 bytes from ns.dts.mg (196.192.32.2): icmp_seq=1 ttl=48 time=226 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+;; Query time: 228 msec
+[1634727965.413518] 64 bytes from ns.nic.mg (196.192.42.153): icmp_seq=1 ttl=48 time=237 ms
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+

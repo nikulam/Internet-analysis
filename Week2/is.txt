@@ -1,0 +1,510 @@
+2021-10-20T14:26:01 EEST
+
+PATTERN: 0x5200
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 314.846/314.975/315.126/0.099 ms
+0.668420
+5.001798
+
+PATTERN: 0x5200
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.880 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.935 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.788 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.678 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.979 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4072ms
+rtt min/avg/max/mdev = 0.678/0.852/0.979/0.107 ms
+0.003262
+5.000963
+
+2021-10-20T14:36:01 EEST
+
+PATTERN: 0x5202
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 314.829/314.946/315.077/0.084 ms
+0.671764
+5.000185
+
+PATTERN: 0x5202
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.793 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.776 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.964 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.940 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.832 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 0.776/0.861/0.964/0.076 ms
+0.004254
+4.999901
+
+2021-10-20T14:46:01 EEST
+
+PATTERN: 0x5206
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=314 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 313.713/313.953/314.673/0.362 ms
+0.645600
+5.000397
+
+PATTERN: 0x5206
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.931 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.859 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=1.01 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.829 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.621 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4038ms
+rtt min/avg/max/mdev = 0.621/0.849/1.007/0.129 ms
+0.004154
+5.000549
+
+2021-10-20T14:56:01 EEST
+
+PATTERN: 0x5210
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 313.733/314.118/314.837/0.452 ms
+0.671039
+4.999839
+
+PATTERN: 0x5210
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.973 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=1.83 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=2.53 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.899 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=1.84 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4025ms
+rtt min/avg/max/mdev = 0.899/1.612/2.525/0.607 ms
+0.003959
+5.000148
+
+2021-10-20T15:06:01 EEST
+
+PATTERN: 0x5207
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 314.061/314.956/315.310/0.453 ms
+0.694276
+5.000190
+
+PATTERN: 0x5207
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=2.85 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=2.30 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=3.76 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=3.00 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=3.38 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.299/3.055/3.757/0.492 ms
+0.008595
+5.000520
+
+2021-10-20T15:16:01 EEST
+
+PATTERN: 0x5204
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=314 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=314 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 313.775/313.895/314.112/0.125 ms
+0.653892
+5.000319
+
+PATTERN: 0x5204
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=3.29 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.656 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.687 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.652 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.626 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4075ms
+rtt min/avg/max/mdev = 0.626/1.181/3.287/1.052 ms
+0.028530
+5.000117
+
+2021-10-20T15:26:01 EEST
+
+PATTERN: 0x5201
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 314.894/314.948/315.083/0.072 ms
+0.690900
+5.001734
+
+PATTERN: 0x5201
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.788 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.730 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.620 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.569 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.578 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4076ms
+rtt min/avg/max/mdev = 0.569/0.657/0.788/0.087 ms
+0.003520
+5.000888
+
+2021-10-20T15:36:01 EEST
+
+PATTERN: 0x5208
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=316 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 314.967/315.173/315.787/0.312 ms
+0.650904
+5.001259
+
+PATTERN: 0x5208
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.756 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.672 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.658 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.587 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.623 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4057ms
+rtt min/avg/max/mdev = 0.587/0.659/0.756/0.056 ms
+0.004092
+5.001181
+
+2021-10-20T15:46:01 EEST
+
+PATTERN: 0x5200
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 314.909/315.007/315.110/0.064 ms
+0.649540
+5.000947
+
+PATTERN: 0x5200
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.773 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.659 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.667 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.627 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.689 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4069ms
+rtt min/avg/max/mdev = 0.627/0.683/0.773/0.049 ms
+0.003196
+5.001068
+
+2021-10-20T15:56:02 EEST
+
+PATTERN: 0x5206
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=315 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 314.919/315.034/315.089/0.059 ms
+0.654867
+5.001195
+
+PATTERN: 0x5206
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.779 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.695 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.685 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.688 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.748 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4064ms
+rtt min/avg/max/mdev = 0.685/0.719/0.779/0.037 ms
+0.003131
+5.001738
+
+2021-10-20T16:06:02 EEST
+
+PATTERN: 0x5207
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=42 time=315 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=42 time=316 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=42 time=316 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=42 time=316 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=42 time=316 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 315.090/316.069/316.362/0.493 ms
+0.652509
+5.001258
+
+PATTERN: 0x5207
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=2.52 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=2.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=2.38 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=2.47 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=2.76 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.382/2.518/2.755/0.126 ms
+0.007035
+5.001593
+
+2021-10-20T16:16:01 EEST
+
+PATTERN: 0x5204
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=40 time=319 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 318.727/318.823/319.006/0.095 ms
+0.637215
+5.000658
+
+PATTERN: 0x5204
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=5.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.722 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.800 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.642 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.647 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4075ms
+rtt min/avg/max/mdev = 0.642/1.568/5.029/1.731 ms
+0.003024
+5.001177
+
+2021-10-20T16:26:02 EEST
+
+PATTERN: 0x5204
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=40 time=319 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 318.774/318.901/318.999/0.081 ms
+0.644608
+5.001250
+
+PATTERN: 0x5204
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.756 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.621 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.627 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.663 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.623 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4069ms
+rtt min/avg/max/mdev = 0.621/0.658/0.756/0.051 ms
+0.003142
+5.001017
+
+2021-10-20T16:36:02 EEST
+
+PATTERN: 0x5202
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=40 time=319 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=40 time=319 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 318.765/318.829/318.938/0.061 ms
+0.672241
+5.001207
+
+PATTERN: 0x5202
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.698 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.593 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.660 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=1.02 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.546 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4035ms
+rtt min/avg/max/mdev = 0.546/0.702/1.017/0.165 ms
+0.003286
+5.001025
+
+2021-10-20T16:46:01 EEST
+
+PATTERN: 0x5202
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=40 time=320 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=40 time=320 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=40 time=320 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=40 time=320 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=40 time=320 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 319.719/319.795/319.945/0.089 ms
+0.704254
+5.000847
+
+PATTERN: 0x5202
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=0.765 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=0.648 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=0.647 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=0.643 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.626 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4056ms
+rtt min/avg/max/mdev = 0.626/0.665/0.765/0.050 ms
+0.003235
+5.001753
+
+2021-10-20T16:56:01 EEST
+
+PATTERN: 0x5208
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=40 time=326 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=40 time=325 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=40 time=325 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=40 time=325 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=40 time=325 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 325.300/325.599/326.449/0.428 ms
+0.645773
+5.001209
+
+PATTERN: 0x5208
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=3.34 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=2.94 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=3.08 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=3.25 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=0.624 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 0.624/2.645/3.343/1.020 ms
+0.003547
+5.001180
+
+2021-10-20T17:06:01 EEST
+
+PATTERN: 0x5207
+PING blr1.iperf.comnet-student.eu (142.93.213.224) 56(84) bytes of data.
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=1 ttl=40 time=322 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=2 ttl=40 time=323 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=3 ttl=40 time=322 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=4 ttl=40 time=322 ms
+64 bytes from 142.93.213.224 (142.93.213.224): icmp_seq=5 ttl=40 time=323 ms
+
+--- blr1.iperf.comnet-student.eu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 321.545/322.270/322.801/0.417 ms
+0.670373
+5.000601
+
+PATTERN: 0x5207
+PING iperf.netlab.hut.fi (195.148.124.36) 56(84) bytes of data.
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=1 ttl=58 time=2.03 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=2 ttl=58 time=2.19 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=3 ttl=58 time=2.04 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=4 ttl=58 time=2.15 ms
+64 bytes from iperf.netlab.hut.fi (195.148.124.36): icmp_seq=5 ttl=58 time=2.42 ms
+
+--- iperf.netlab.hut.fi ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.026/2.166/2.421/0.141 ms
+0.006487
+5.001089
+

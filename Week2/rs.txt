@@ -1,0 +1,3603 @@
+2021-10-19T17:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4062ms
+rtt min/avg/max/mdev = 83.080/83.080/83.080/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13326ms
+rtt min/avg/max/mdev = 308.080/308.626/309.075/0.326 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4096ms
+
+
+2021-10-19T17:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4048ms
+rtt min/avg/max/mdev = 82.498/82.906/83.156/0.291 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13321ms
+rtt min/avg/max/mdev = 308.036/308.566/309.330/0.473 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4104ms
+
+
+2021-10-19T17:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4037ms
+rtt min/avg/max/mdev = 83.139/83.173/83.207/0.034 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 308.125/308.587/309.182/0.404 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4095ms
+
+
+2021-10-19T17:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.0 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4055ms
+rtt min/avg/max/mdev = 82.603/82.825/83.048/0.222 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=328 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13323ms
+rtt min/avg/max/mdev = 308.079/312.442/327.541/7.556 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4103ms
+
+
+2021-10-19T17:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4053ms
+rtt min/avg/max/mdev = 83.129/83.129/83.129/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13324ms
+rtt min/avg/max/mdev = 307.741/307.851/307.953/0.085 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+2021-10-19T18:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=84.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4060ms
+rtt min/avg/max/mdev = 83.750/83.900/84.050/0.150 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13323ms
+rtt min/avg/max/mdev = 307.491/308.091/309.076/0.577 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4102ms
+
+
+2021-10-19T18:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4011ms
+rtt min/avg/max/mdev = 83.180/83.193/83.207/0.013 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 307.946/308.792/309.473/0.535 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+2021-10-19T18:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4042ms
+rtt min/avg/max/mdev = 82.642/83.004/83.228/0.258 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13322ms
+rtt min/avg/max/mdev = 308.106/308.629/309.281/0.458 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4099ms
+
+
+2021-10-19T18:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=84.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4045ms
+rtt min/avg/max/mdev = 83.150/83.498/84.187/0.486 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13323ms
+rtt min/avg/max/mdev = 307.196/307.528/308.047/0.379 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4097ms
+
+
+2021-10-19T18:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4058ms
+rtt min/avg/max/mdev = 83.080/83.080/83.080/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=307 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 307.257/307.559/308.083/0.293 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-19T18:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4047ms
+rtt min/avg/max/mdev = 83.150/83.186/83.222/0.036 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=307 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13324ms
+rtt min/avg/max/mdev = 307.313/307.596/308.159/0.297 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4103ms
+
+
+2021-10-19T19:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.7 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4064ms
+rtt min/avg/max/mdev = 83.749/83.837/83.926/0.088 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=307 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13321ms
+rtt min/avg/max/mdev = 307.264/307.683/308.774/0.567 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4095ms
+
+
+2021-10-19T19:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4063ms
+rtt min/avg/max/mdev = 82.714/82.714/82.714/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 308.062/308.478/308.932/0.329 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4076ms
+
+
+2021-10-19T19:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4094ms
+
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13323ms
+rtt min/avg/max/mdev = 307.902/308.220/309.326/0.553 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4093ms
+
+
+2021-10-19T19:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.6 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4050ms
+rtt min/avg/max/mdev = 83.159/83.345/83.643/0.212 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 308.040/308.489/309.215/0.423 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4088ms
+
+
+2021-10-19T19:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4028ms
+rtt min/avg/max/mdev = 83.105/83.131/83.158/0.026 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 308.110/308.636/309.347/0.463 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4073ms
+
+
+2021-10-19T19:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4014ms
+rtt min/avg/max/mdev = 82.775/82.979/83.069/0.120 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 307.520/307.752/308.033/0.207 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4081ms
+
+
+2021-10-19T20:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=84.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.9 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4055ms
+rtt min/avg/max/mdev = 83.466/83.823/84.128/0.272 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=312 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=311 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 307.715/309.604/311.642/1.569 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+2021-10-19T20:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4075ms
+rtt min/avg/max/mdev = 83.108/83.108/83.108/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=307 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13321ms
+rtt min/avg/max/mdev = 307.405/308.016/309.179/0.633 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4099ms
+
+
+2021-10-19T20:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4050ms
+rtt min/avg/max/mdev = 83.165/83.165/83.165/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13324ms
+rtt min/avg/max/mdev = 308.106/308.633/309.195/0.356 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4095ms
+
+
+2021-10-19T20:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4059ms
+rtt min/avg/max/mdev = 82.743/83.000/83.258/0.257 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13322ms
+rtt min/avg/max/mdev = 308.140/308.926/309.298/0.407 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4089ms
+
+
+2021-10-19T20:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4053ms
+rtt min/avg/max/mdev = 83.080/83.110/83.140/0.030 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=309 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13321ms
+rtt min/avg/max/mdev = 307.765/308.367/309.265/0.541 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+2021-10-19T20:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4004ms
+rtt min/avg/max/mdev = 83.165/83.186/83.208/0.017 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=38 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=38 time=307 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=38 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 307.281/307.470/307.718/0.150 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+2021-10-19T21:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=84.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4018ms
+rtt min/avg/max/mdev = 83.705/84.061/84.418/0.356 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=309 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=308 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=308 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 307.699/308.170/308.578/0.306 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4089ms
+
+
+2021-10-19T21:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.0 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4045ms
+rtt min/avg/max/mdev = 83.032/83.042/83.052/0.010 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 302.641/303.484/304.307/0.649 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4096ms
+
+
+2021-10-19T21:26:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4063ms
+rtt min/avg/max/mdev = 82.565/83.055/83.545/0.490 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.606/303.966/304.523/0.379 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4082ms
+
+
+2021-10-19T21:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4065ms
+rtt min/avg/max/mdev = 83.054/83.139/83.225/0.085 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 303.490/304.074/304.470/0.354 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4081ms
+
+
+2021-10-19T21:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.851/83.131/83.250/0.142 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 303.560/304.199/304.672/0.383 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4086ms
+
+
+2021-10-19T21:56:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4031ms
+rtt min/avg/max/mdev = 83.155/83.162/83.170/0.007 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 302.643/302.953/303.469/0.278 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4074ms
+
+
+2021-10-19T22:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.7 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4090ms
+rtt min/avg/max/mdev = 83.702/83.702/83.702/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 303.353/303.656/304.658/0.502 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4099ms
+
+
+2021-10-19T22:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4084ms
+
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 303.479/303.805/304.811/0.509 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4073ms
+
+
+2021-10-19T22:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=84.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4025ms
+rtt min/avg/max/mdev = 83.148/83.415/84.090/0.390 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.527/304.207/305.080/0.501 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+2021-10-19T22:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4024ms
+rtt min/avg/max/mdev = 83.089/83.092/83.095/0.003 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.464/304.154/304.850/0.468 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-19T22:46:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4046ms
+rtt min/avg/max/mdev = 83.128/83.155/83.183/0.027 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.454/304.131/304.677/0.471 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4077ms
+
+
+2021-10-19T22:56:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.0 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4041ms
+rtt min/avg/max/mdev = 82.926/83.027/83.118/0.078 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 302.733/303.063/303.559/0.343 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4082ms
+
+
+2021-10-19T23:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.7 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4052ms
+rtt min/avg/max/mdev = 83.693/83.819/83.945/0.126 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.516/303.861/304.257/0.249 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4090ms
+
+
+2021-10-19T23:16:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4020ms
+rtt min/avg/max/mdev = 82.786/83.055/83.247/0.195 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.479/304.093/304.673/0.440 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+2021-10-19T23:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4062ms
+rtt min/avg/max/mdev = 83.175/83.175/83.175/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 302.662/303.010/303.549/0.301 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4073ms
+
+
+2021-10-19T23:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4091ms
+
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.201/303.413/303.524/0.112 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+2021-10-19T23:46:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4016ms
+rtt min/avg/max/mdev = 83.062/83.161/83.262/0.081 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 302.600/303.427/304.130/0.602 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4093ms
+
+
+2021-10-19T23:56:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4057ms
+rtt min/avg/max/mdev = 83.121/83.121/83.121/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 302.830/303.067/303.327/0.167 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T00:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4038ms
+rtt min/avg/max/mdev = 83.529/83.579/83.629/0.050 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 302.712/303.149/304.537/0.696 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-20T00:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4076ms
+rtt min/avg/max/mdev = 83.189/83.189/83.189/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.554/303.923/304.301/0.287 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4099ms
+
+
+2021-10-20T00:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4072ms
+rtt min/avg/max/mdev = 83.143/83.143/83.143/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.547/304.064/304.456/0.419 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4077ms
+
+
+2021-10-20T00:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4035ms
+rtt min/avg/max/mdev = 83.174/83.196/83.218/0.015 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.549/303.931/304.604/0.381 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4093ms
+
+
+2021-10-20T00:46:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4014ms
+rtt min/avg/max/mdev = 82.584/83.006/83.221/0.298 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 302.991/303.929/304.677/0.626 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4081ms
+
+
+2021-10-20T00:56:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4082ms
+rtt min/avg/max/mdev = 83.190/83.190/83.190/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 302.988/303.157/303.301/0.137 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4083ms
+
+
+2021-10-20T01:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.8 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4033ms
+rtt min/avg/max/mdev = 82.553/83.154/83.755/0.601 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.516/303.904/304.398/0.358 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4074ms
+
+
+2021-10-20T01:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4052ms
+rtt min/avg/max/mdev = 83.163/83.163/83.163/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.473/304.177/304.881/0.500 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4081ms
+
+
+2021-10-20T01:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4028ms
+rtt min/avg/max/mdev = 83.051/83.292/83.890/0.345 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 302.725/303.709/304.495/0.603 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4094ms
+
+
+2021-10-20T01:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4035ms
+rtt min/avg/max/mdev = 83.139/83.178/83.223/0.034 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.609/304.184/304.627/0.415 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+2021-10-20T01:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4081ms
+rtt min/avg/max/mdev = 83.069/83.069/83.069/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13322ms
+rtt min/avg/max/mdev = 303.397/303.813/305.093/0.642 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+2021-10-20T01:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4046ms
+rtt min/avg/max/mdev = 82.611/82.941/83.116/0.233 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 302.632/303.099/303.661/0.354 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4082ms
+
+
+2021-10-20T02:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=84.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 82.565/83.616/84.221/0.555 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 302.842/303.405/304.044/0.494 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4077ms
+
+
+2021-10-20T02:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4043ms
+rtt min/avg/max/mdev = 83.056/83.140/83.190/0.059 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 303.464/304.005/304.484/0.378 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4081ms
+
+
+2021-10-20T02:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4018ms
+rtt min/avg/max/mdev = 83.181/83.214/83.247/0.032 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.481/304.070/304.422/0.376 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4081ms
+
+
+2021-10-20T02:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4026ms
+rtt min/avg/max/mdev = 83.102/83.150/83.195/0.040 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 302.795/303.069/303.654/0.314 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-20T02:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4056ms
+rtt min/avg/max/mdev = 83.185/83.199/83.214/0.014 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 303.205/303.688/304.104/0.295 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4083ms
+
+
+2021-10-20T02:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4093ms
+
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 302.907/303.300/303.424/0.197 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T03:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.6 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4018ms
+rtt min/avg/max/mdev = 83.550/83.661/83.773/0.111 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 302.781/303.380/304.672/0.665 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4083ms
+
+
+2021-10-20T03:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.083/83.166/83.235/0.058 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 303.524/304.168/304.754/0.522 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4093ms
+
+
+2021-10-20T03:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4053ms
+rtt min/avg/max/mdev = 83.158/83.159/83.161/0.001 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 303.513/304.011/304.776/0.464 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4081ms
+
+
+2021-10-20T03:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4009ms
+rtt min/avg/max/mdev = 82.715/83.055/83.172/0.196 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 303.020/303.862/304.584/0.581 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4099ms
+
+
+2021-10-20T03:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=84.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.165/83.536/84.617/0.624 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 303.231/304.002/304.775/0.584 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4096ms
+
+
+2021-10-20T03:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4072ms
+
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.793/303.231/303.487/0.243 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T04:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=84.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4019ms
+rtt min/avg/max/mdev = 82.703/83.541/84.043/0.524 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 302.756/303.104/304.193/0.547 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4096ms
+
+
+2021-10-20T04:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4009ms
+rtt min/avg/max/mdev = 83.156/83.218/83.265/0.045 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 302.848/304.077/304.801/0.684 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4090ms
+
+
+2021-10-20T04:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 1 received, 80% packet loss, time 4076ms
+rtt min/avg/max/mdev = 83.190/83.190/83.190/0.000 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.307/303.405/303.454/0.053 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4076ms
+
+
+2021-10-20T04:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4063ms
+rtt min/avg/max/mdev = 82.986/83.081/83.177/0.095 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.573/304.232/304.544/0.398 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T04:46:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4028ms
+rtt min/avg/max/mdev = 82.398/82.777/83.156/0.379 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.521/304.062/304.418/0.300 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+2021-10-20T04:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4051ms
+rtt min/avg/max/mdev = 83.022/83.080/83.153/0.054 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 303.607/303.926/304.306/0.251 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4098ms
+
+
+2021-10-20T05:06:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.7 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 2 received, 60% packet loss, time 4038ms
+rtt min/avg/max/mdev = 83.709/83.774/83.839/0.065 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 304.217/304.554/304.947/0.314 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4092ms
+
+
+2021-10-20T05:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.121/83.162/83.195/0.025 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.553/304.378/304.825/0.472 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4098ms
+
+
+2021-10-20T05:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.174/83.215/83.268/0.031 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 302.944/303.865/304.434/0.572 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+2021-10-20T05:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.155/83.221/83.323/0.060 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 303.484/303.939/304.355/0.338 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4088ms
+
+
+2021-10-20T05:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.744/82.958/83.120/0.168 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 303.367/304.005/304.484/0.435 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4074ms
+
+
+2021-10-20T05:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.573/82.984/83.273/0.293 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.977/303.301/303.700/0.234 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4082ms
+
+
+2021-10-20T06:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=84.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=84.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=84.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.794/83.764/84.241/0.551 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.613/303.056/303.756/0.377 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-20T06:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.153/83.180/83.226/0.025 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 303.562/304.154/304.837/0.450 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4090ms
+
+
+2021-10-20T06:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.169/83.200/83.251/0.032 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 302.607/303.092/303.454/0.363 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+2021-10-20T06:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.588/82.986/83.229/0.283 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 303.486/304.247/304.602/0.413 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T06:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.490/82.954/83.211/0.302 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 303.580/304.216/304.612/0.363 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4102ms
+
+
+2021-10-20T06:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 83.123/83.182/83.231/0.041 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.642/303.018/303.575/0.316 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4090ms
+
+
+2021-10-20T07:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 83.183/83.208/83.225/0.015 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 302.804/303.164/303.515/0.250 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4087ms
+
+
+2021-10-20T07:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.602/83.010/83.225/0.253 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13313ms
+rtt min/avg/max/mdev = 302.914/304.108/304.806/0.705 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4076ms
+
+
+2021-10-20T07:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 83.066/83.181/83.266/0.082 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 302.740/303.705/304.825/0.768 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+2021-10-20T07:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.914/83.124/83.203/0.106 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.690/304.146/304.562/0.280 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T07:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.6 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.550/82.772/83.070/0.236 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 302.868/303.303/303.667/0.262 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4090ms
+
+
+2021-10-20T07:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 83.071/83.095/83.147/0.028 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 302.789/303.098/303.571/0.285 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4094ms
+
+
+2021-10-20T08:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=84.0 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.727/83.513/84.036/0.440 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 303.663/304.057/304.378/0.287 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-20T08:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 83.164/83.212/83.267/0.032 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.834/303.741/304.537/0.641 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T08:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.588/82.977/83.248/0.295 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 302.772/303.257/303.642/0.324 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4082ms
+
+
+2021-10-20T08:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.737/83.064/83.191/0.165 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13318ms
+rtt min/avg/max/mdev = 303.633/304.026/304.378/0.301 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4092ms
+
+
+2021-10-20T08:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.050/83.152/83.265/0.074 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 303.687/304.063/304.539/0.273 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-20T08:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.155/83.239/83.386/0.080 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.878/303.189/303.456/0.204 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4086ms
+
+
+2021-10-20T09:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.9 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.597/83.487/83.936/0.478 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 303.447/303.930/304.278/0.278 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+
+
+2021-10-20T09:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.0 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.485/82.985/83.212/0.257 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 303.382/304.044/304.387/0.347 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-20T09:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 83.125/83.173/83.219/0.033 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13320ms
+rtt min/avg/max/mdev = 303.553/304.012/304.798/0.436 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4080ms
+
+
+2021-10-20T09:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.7 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.593/82.949/83.181/0.252 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 302.908/303.709/304.489/0.575 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4096ms
+
+
+2021-10-20T09:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.8 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.1 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 82.773/83.023/83.187/0.147 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 302.534/302.899/303.622/0.379 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4099ms
+
+
+2021-10-20T09:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.2 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.189/83.217/83.236/0.016 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13319ms
+rtt min/avg/max/mdev = 303.064/303.318/303.530/0.179 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4089ms
+
+
+2021-10-20T10:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=84.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=83.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.564/83.520/84.341/0.567 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13313ms
+rtt min/avg/max/mdev = 303.377/303.917/304.508/0.421 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4080ms
+
+
+2021-10-20T10:16:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.328/82.373/82.489/0.060 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13313ms
+rtt min/avg/max/mdev = 302.785/303.987/304.493/0.612 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T10:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.221/82.361/82.525/0.096 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13312ms
+rtt min/avg/max/mdev = 302.778/304.019/304.712/0.685 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4097ms
+
+
+2021-10-20T10:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.324/82.372/82.476/0.053 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13308ms
+rtt min/avg/max/mdev = 302.807/304.020/304.785/0.669 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4074ms
+
+
+2021-10-20T10:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.323/82.400/82.520/0.073 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13313ms
+rtt min/avg/max/mdev = 302.773/304.018/304.537/0.655 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4099ms
+
+
+2021-10-20T10:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4028ms
+rtt min/avg/max/mdev = 82.386/82.446/82.559/0.067 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 302.846/303.423/304.401/0.565 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4082ms
+
+
+2021-10-20T11:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=83.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=84.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=84.0 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 82.480/83.514/84.003/0.551 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 303.480/304.073/304.440/0.337 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4092ms
+
+
+2021-10-20T11:16:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.337/82.392/82.497/0.054 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13313ms
+rtt min/avg/max/mdev = 302.757/304.273/305.015/0.793 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4084ms
+
+
+2021-10-20T11:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4012ms
+rtt min/avg/max/mdev = 82.336/82.411/82.522/0.079 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13311ms
+rtt min/avg/max/mdev = 302.771/303.921/304.767/0.649 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4082ms
+
+
+2021-10-20T11:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4018ms
+rtt min/avg/max/mdev = 82.321/82.359/82.398/0.029 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.749/303.842/304.680/0.654 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4090ms
+
+
+2021-10-20T11:46:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4012ms
+rtt min/avg/max/mdev = 82.324/82.396/82.524/0.081 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 302.833/303.958/304.653/0.629 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4102ms
+
+
+2021-10-20T11:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4025ms
+rtt min/avg/max/mdev = 82.343/82.380/82.400/0.022 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13312ms
+rtt min/avg/max/mdev = 302.813/303.559/304.086/0.453 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4097ms
+
+
+2021-10-20T12:06:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.2 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.219/82.370/82.524/0.108 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.800/304.080/304.668/0.687 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4098ms
+
+
+2021-10-20T12:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 4050ms
+rtt min/avg/max/mdev = 82.340/82.425/82.577/0.107 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.850/304.091/304.845/0.676 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4087ms
+
+
+2021-10-20T12:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.347/82.403/82.529/0.064 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13313ms
+rtt min/avg/max/mdev = 302.857/304.078/304.798/0.666 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T12:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.342/82.407/82.552/0.074 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13312ms
+rtt min/avg/max/mdev = 302.773/304.073/304.821/0.739 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4078ms
+
+
+2021-10-20T12:46:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=83.8 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.321/82.683/83.758/0.541 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 302.784/304.032/304.583/0.647 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4100ms
+
+
+2021-10-20T12:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.5 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.379/82.442/82.518/0.055 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 302.815/303.793/304.680/0.667 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4098ms
+
+
+2021-10-20T13:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 82.365/82.400/82.504/0.053 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 302.829/303.629/304.415/0.629 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4073ms
+
+
+2021-10-20T13:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.314/82.374/82.489/0.061 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=304 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13312ms
+rtt min/avg/max/mdev = 302.796/303.949/304.662/0.643 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+
+
+2021-10-20T13:26:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.294/82.392/82.601/0.108 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=305 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13314ms
+rtt min/avg/max/mdev = 302.914/304.149/304.964/0.777 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4073ms
+
+
+2021-10-20T13:36:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.332/82.411/82.572/0.086 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=304 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=305 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13312ms
+rtt min/avg/max/mdev = 302.930/304.112/304.502/0.594 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+
+
+2021-10-20T13:46:02 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.332/82.395/82.511/0.065 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13316ms
+rtt min/avg/max/mdev = 302.523/302.678/303.006/0.171 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4094ms
+
+
+2021-10-20T13:56:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.308/82.374/82.490/0.061 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=306 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13315ms
+rtt min/avg/max/mdev = 302.573/303.401/306.006/1.323 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4102ms
+
+
+2021-10-20T14:06:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.3 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.4 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.323/82.385/82.511/0.066 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13317ms
+rtt min/avg/max/mdev = 302.513/302.648/302.851/0.114 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4098ms
+
+
+2021-10-20T14:16:01 EEST
+
+PING pna-es.ark.caida.org (130.206.158.142) 56(84) bytes of data.
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=1 ttl=45 time=82.6 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=2 ttl=45 time=82.5 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=3 ttl=45 time=83.1 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=4 ttl=45 time=82.4 ms
+64 bytes from s158m142.unavarra.es (130.206.158.142): icmp_seq=5 ttl=45 time=82.3 ms
+
+--- pna-es.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 82.318/82.578/83.087/0.270 ms
+
+PING hlz-nz.ark.caida.org (192.107.171.130) 56(84) bytes of data.
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=1 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=2 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=3 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=4 ttl=40 time=303 ms
+64 bytes from 192.107.171.130 (192.107.171.130): icmp_seq=5 ttl=40 time=303 ms
+
+--- hlz-nz.ark.caida.org ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13309ms
+rtt min/avg/max/mdev = 302.660/302.705/302.765/0.047 ms
+
+PING jfk-us.ark.caida.org (216.66.30.102) 56(84) bytes of data.
+
+--- jfk-us.ark.caida.org ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4089ms
+
+
